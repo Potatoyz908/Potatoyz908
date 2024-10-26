@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 - 🌱 Currently studying the C/C++ language<br/>
-- 👯 Open to collaboration on Java projects<br/>
+- 👯 Open to collaboration on Java or Python projects<br/>
 - 🥅 2024 Goals: Indulge in more open source projects and delve deeper into software development.<br/>
 - 😄 Pronouns: he/him<br/>
 - 💡 Fun fact: I'm also involved in a PIBEX project on Active and Collaborative Learning!<br/>
