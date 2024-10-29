@@ -37,6 +37,8 @@
   <img alt="C "height="50" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman"/>
   <img alt="C "height="50" width="40" src="https://img.icons8.com/?size=100&id=QFcVqyh6lBh6&format=png&color=000000" alt="Apache"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img alt="C "height="50" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git"/>
+  
   
 
   
