@@ -34,7 +34,11 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img alt="C "height="50" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman"/>
+  <img alt="C "height="50" width="40" src="https://img.icons8.com/?size=100&id=QFcVqyh6lBh6&format=png&color=000000" alt="Apache"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  
+
   
 </p>
 
