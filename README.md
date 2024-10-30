@@ -27,19 +27,23 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=256" height="50" width="50" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://static-00.iconduck.com/assets.00/mysqlworkbench-icon-1024x1014-nnvsz83e.png" height="45" width="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" width="40" alt="Javascript" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img alt="C "height="50" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman"/>
-  <img alt="C "height="50" width="40" src="https://img.icons8.com/?size=100&id=QFcVqyh6lBh6&format=png&color=000000" alt="Apache"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img alt="C "height="50" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git"/>
-  
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="40" alt="Nodejs"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" height="50" width="40"/>
+  <img src="https://camo.githubusercontent.com/e5c1b4b7d59d58f0607fede5dd922211257cd09031f3c2370308ab4e34356299/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" height="50" width="40" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Git" height="50" width="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" width="40"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Feclipse-11-logo-png-transparent.png&f=1&nofb=1&ipt=779b2fa0576a0e4dd77b85c1be656f3dc96b4534de1290df170fb17823c75d4d&ipo=images" alt="Eclipse" height="50" width="40"/>
 
   
 </p>
