@@ -44,6 +44,7 @@
   <!-- Ferramentas de Desenvolvimento -->
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" width="40"/>
+ <img src="https://img.icons8.com/?size=100&id=QFcVqyh6lBh6&format=png&color=000000" alt="Postman" height="50" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" height="50" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Feclipse-11-logo-png-transparent.png&f=1&nofb=1&ipt=779b2fa0576a0e4dd77b85c1be656f3dc96b4534de1290df170fb17823c75d4d&ipo=images" alt="Eclipse" height="50" width="40"/>
