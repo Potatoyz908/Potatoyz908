@@ -21,6 +21,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euller-j%C3%BAlio-002572287/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/potatoyz1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://seu-link-para-o-portfolio)
+[![My Portfolio](https://img.shields.io/badge/Portfolio-3A3A3A?style=for-the-badge&logo=react&logoColor=white)](https://seu-link-para-o-portfolio)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=white)](https://seu-link-para-o-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=transparent&color=transparent&background=%23f1f1f1&logoWidth=30&borderRadius=5&image=https://link-para-imagem-do-buraco-negro)](https://seu-link-para-o-portfolio)
+
+
+
+
+
+
 
 ---
 
