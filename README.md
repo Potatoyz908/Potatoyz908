@@ -20,13 +20,9 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euller-j%C3%BAlio-002572287/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561991131654)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/potatoyz1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://seu-link-para-o-portfolio)
-[![My Portfolio](https://img.shields.io/badge/Portfolio-3A3A3A?style=for-the-badge&logo=react&logoColor=white)](https://seu-link-para-o-portfolio)
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=white)](https://seu-link-para-o-portfolio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=transparent&color=transparent&background=%23f1f1f1&logoWidth=30&borderRadius=5&image=https://link-para-imagem-do-buraco-negro)](https://seu-link-para-o-portfolio)
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-potatoyz908s-projects.vercel.app/)
 
 
 
@@ -78,11 +74,49 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potatoyz908&theme=algolia" alt="Profile Details">
 </p>
 
-## Portfolio:
-- [RSRevive-MaratonaRS](https://github.com/moonshinerd/RSRevive-MaratonaRS.git)
-- [Gerenciador de Planilha Financeira](https://github.com/Potatoyz908/Gerenciador-de-Planilha-Financeira)
-- [TPOO](https://github.com/TiagoBalieiro/TP-Orientacao-a-Objetos)
-- [Pac-and-Ghosts](https://github.com/Potatoyz908/C-Pratice.git)
-- [Toaflix-plus](https://github.com/Potatoyz908/Toaflix-plus.git)
-- [PASLib](https://github.com/Potatoyz908/Paslib.git)
-- [TravelPlanner](https://github.com/Potatoyz908/TravelPlanner)
+
+<h1 align="center">Projetos</h1>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-potatoyz908s-projects.vercel.app/)
+  
+  Um portfólio pessoal para exibir meus projetos.
+
+---
+
+[![RSRevive](https://img.shields.io/badge/RSRevive-FF6600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moonshinerd/RSRevive-MaratonaRS.git)  
+
+  Plataforma de apoio às comunidades afetadas pelas enchentes no Rio Grande do Sul.
+
+---
+  
+[![Finance Manager](https://img.shields.io/badge/Finance%20Manager-4CAF50?style=for-the-badge&logo=google-sheets&logoColor=white)](https://github.com/Potatoyz908/Gerenciador-de-Planilha-Financeira)  
+  
+  Aplicação para gerenciar e organizar dados financeiros em planilhas Excel, com interface gráfica em Python.
+
+[![TPOO](https://img.shields.io/badge/TPOO-9C27B0?style=for-the-badge&logo=java&logoColor=white)](https://github.com/TiagoBalieiro/TP-Orientacao-a-Objetos)  
+  
+  Sistema de Universidade para ensino e aprendizagem de conceitos de Programação Orientada a Objetos em Java.
+
+---
+
+[![Pac-and-Ghosts](https://img.shields.io/badge/Pac%20and%20Ghosts-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Potatoyz908/C-Pratice.git)  
+  Jogo baseado no Pac-Man, desenvolvido como prática de programação em C.
+
+---
+
+[![Toaflix](https://img.shields.io/badge/Toaflix-FF6347?style=for-the-badge&logo=netflix&logoColor=white)](https://github.com/Potatoyz908/Toaflix-plus.git)  
+  
+  Site de cinema completo desenvolvido em Java.
+
+---
+
+[![PASLib](https://img.shields.io/badge/PASLib-FFD700?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Potatoyz908/Paslib.git)  
+  
+  Site para auxiliar estudantes que buscam aprovação em vestibulares.
+
+---
+
+[![TravelPlanner](https://img.shields.io/badge/TravelPlanner-1E90FF?style=for-the-badge&logo=airbnb&logoColor=white)](https://github.com/Potatoyz908/TravelPlanner)  
+  
+  Aplicação para planejar viagens, organizar destinos e itinerários.
+
