@@ -50,6 +50,7 @@
   <!-- Ferramentas de Desenvolvimento -->
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" width="40"/>
+  <img src="https://github.com/user-attachments/assets/86cfe832-cfbb-461f-bd78-291964f56096" alt="Dbeaver" height="50" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=QFcVqyh6lBh6&format=png&color=000000" alt="Postman" height="50" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" height="50" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
