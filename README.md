@@ -46,6 +46,8 @@
   <img src="https://github.com/user-attachments/assets/d511234a-2d6d-4669-af67-ce97267ef94a" height="45" width="40" alt="vuejs"/>
   <img src="https://github.com/user-attachments/assets/9fdd21dc-3cc1-44ae-9405-60bc96519991" height="45" width="40" alt="vite"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="40" alt="Node.js"/>
+  <img src="https://github.com/user-attachments/assets/7f49567c-2586-4213-9151-6d8ef7d4434a" height="40" width="40" alt="django"/>
+
   <!-- Ferramentas de Banco de Dados -->
   <img src="https://static-00.iconduck.com/assets.00/mysqlworkbench-icon-1024x1014-nnvsz83e.png" height="45" width="40" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="40" alt="PostgreSQL"/>
@@ -58,8 +60,9 @@
   <img src="https://github.com/user-attachments/assets/69595a71-e1b7-4c46-9e07-889df45b1647" alt="gradle" height="50" width="40"/>
   <img src="https://github.com/user-attachments/assets/f242b76a-77a4-46f4-aabe-1bcae3f304aa" height="45" width="40" alt="junit"/>
   <img src="https://github.com/user-attachments/assets/b5ea9d63-bba5-41fc-9599-d5d3c516acfe" alt="azure" height="45" width="40"/>
+  <img src="https://github.com/user-attachments/assets/4aa9e25a-9478-45cd-91b2-1c5a0d012ae6" height="50" width="40" alt="codecov"/>
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" height="50" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://github.com/user-attachments/assets/bd72aaeb-9ddb-412b-b471-4fe4a81fb323" height="45" width="40" alt="VS Code"/>
   <img src="https://github.com/user-attachments/assets/5511fd13-b17c-410f-b6eb-48f8d81cb256" alt="intellJ" height="50" width="50"/>
   <img src="https://github.com/user-attachments/assets/c336c3b5-ce38-46e4-86a8-5c7f5c4249fe" alt="Eclipse" height="50" width="40"/>
   <img src="https://github.com/user-attachments/assets/0a5cb9eb-899b-4fe6-9942-64a064fe6eb4" alt="ubuntu" height="50" width="50"/>
