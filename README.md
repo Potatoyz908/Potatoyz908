@@ -43,6 +43,8 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50" width="40" alt="React"/>
+  <img src="https://github.com/user-attachments/assets/d511234a-2d6d-4669-af67-ce97267ef94a" height="45" width="40" alt="vuejs"/>
+  <img src="https://github.com/user-attachments/assets/9fdd21dc-3cc1-44ae-9405-60bc96519991" height="45" width="40" alt="vite"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="40" alt="Node.js"/>
   <!-- Ferramentas de Banco de Dados -->
   <img src="https://static-00.iconduck.com/assets.00/mysqlworkbench-icon-1024x1014-nnvsz83e.png" height="45" width="40" alt="MySQL" />
@@ -51,14 +53,21 @@
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" width="40"/>
   <img src="https://github.com/user-attachments/assets/86cfe832-cfbb-461f-bd78-291964f56096" alt="Dbeaver" height="50" width="50"/>
- <img src="https://img.icons8.com/?size=100&id=QFcVqyh6lBh6&format=png&color=000000" alt="Postman" height="50" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=QFcVqyh6lBh6&format=png&color=000000" alt="apache" height="50" width="40"/>
+  <img src="https://github.com/user-attachments/assets/ab11c8bd-c55d-4f3d-a335-f555b9ec53e6" alt="apachemaven" height="50" width="40"/>
+  <img src="https://github.com/user-attachments/assets/f242b76a-77a4-46f4-aabe-1bcae3f304aa" height="45" width="40" alt="junit"/>
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" height="50" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
   <img src="https://github.com/user-attachments/assets/5511fd13-b17c-410f-b6eb-48f8d81cb256" alt="intellJ" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/c336c3b5-ce38-46e4-86a8-5c7f5c4249fe" alt="Eclipse" height="50" width="40"/>
+  <img src="https://github.com/user-attachments/assets/0a5cb9eb-899b-4fe6-9942-64a064fe6eb4" alt="ubuntu" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/dd420853-a1f6-4648-9cb7-e07b1d444664" alt="linux" height="50" width="50"/>
 
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Feclipse-11-logo-png-transparent.png&f=1&nofb=1&ipt=779b2fa0576a0e4dd77b85c1be656f3dc96b4534de1290df170fb17823c75d4d&ipo=images" alt="Eclipse" height="50" width="40"/>
+
   <!-- Design e Prototipação -->
   <img src="https://camo.githubusercontent.com/e5c1b4b7d59d58f0607fede5dd922211257cd09031f3c2370308ab4e34356299/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" height="50" width="40" alt="Figma"/>
+
+
 
   
 </p>
