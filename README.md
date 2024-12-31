@@ -98,6 +98,14 @@
 
 <h1 align="center">Projetos</h1>
 
+---
+
+[![AcheiUnB](https://img.shields.io/badge/AcheiUnB-4CAF50?style=for-the-badge&logo=django&logoColor=white)](https://github.com/unb-mds/2024-2-AcheiUnB.git)  
+  
+  Sistema de Achados e Perdidos para a Universidade de Brasília, desenvolvido com Django e Vue.js.
+
+---
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-potatoyz908s-projects.vercel.app/)
   
   Um portfólio pessoal para exibir meus projetos.
@@ -113,6 +121,8 @@
 [![Finance Manager](https://img.shields.io/badge/Finance%20Manager-4CAF50?style=for-the-badge&logo=google-sheets&logoColor=white)](https://github.com/Potatoyz908/Gerenciador-de-Planilha-Financeira)  
   
   Aplicação para gerenciar e organizar dados financeiros em planilhas Excel, com interface gráfica em Python.
+
+---
 
 [![TPOO](https://img.shields.io/badge/TPOO-9C27B0?style=for-the-badge&logo=java&logoColor=white)](https://github.com/TiagoBalieiro/TP-Orientacao-a-Objetos)  
   
