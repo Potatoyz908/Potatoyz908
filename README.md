@@ -4,8 +4,9 @@
   <a href="mailto:euller2005@gmail.com"><img src="https://img.shields.io/badge/Email-euller2005@gmail.com-purple" alt="Email"></a>
   <a href="https://criarmeulink.com.br/u/1718588884"><img src="https://img.shields.io/badge/Contact-+55_(61)991131654-blue" alt="PhoneNumber"></a>
 </p>
-<p align="center">
-- 🌱 Currently studying the C/C++ language<br/>
+<p align="">
+- 🚀 I’m currently working on AcheiUnB<br/>
+- 🌱 Currently studying Django and SpringBoot<br/>
 - 👯 Open to collaboration on Java or Python projects<br/>
 - 🥅 2024 Goals: Indulge in more open source projects and delve deeper into software development.<br/>
 - 😄 Pronouns: he/him<br/>
