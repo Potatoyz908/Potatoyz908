@@ -133,6 +133,7 @@
 [![Pac-and-Ghosts](https://img.shields.io/badge/Pac%20and%20Ghosts-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Potatoyz908/C-Pratice.git)  
   Jogo baseado no Pac-Man, desenvolvido como prática de programação em C.
 
+---
 
 [![Toaflix](https://img.shields.io/badge/Toaflix-FF6347?style=for-the-badge&logo=netflix&logoColor=white)](https://github.com/Potatoyz908/Toaflix-plus.git)  
   
