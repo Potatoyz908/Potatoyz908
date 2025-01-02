@@ -133,7 +133,6 @@
 [![Pac-and-Ghosts](https://img.shields.io/badge/Pac%20and%20Ghosts-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Potatoyz908/C-Pratice.git)  
   Jogo baseado no Pac-Man, desenvolvido como prática de programação em C.
 
----
 
 [![Toaflix](https://img.shields.io/badge/Toaflix-FF6347?style=for-the-badge&logo=netflix&logoColor=white)](https://github.com/Potatoyz908/Toaflix-plus.git)  
   
@@ -144,6 +143,11 @@
 [![PASLib](https://img.shields.io/badge/PASLib-FFD700?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Potatoyz908/Paslib.git)  
   
   Site para auxiliar estudantes que buscam aprovação em vestibulares.
+
+---
+
+[![Filmes-App](https://img.shields.io/badge/Filmes%20App-1E90FF?style=for-the-badge&logo=netflix&logoColor=white)](https://filme-app2.vercel.app/)  
+  Aplicação de gestão de filmes, composta por um backend RESTful desenvolvido com Spring Boot e MySQL, e um frontend em React.
 
 ---
 
