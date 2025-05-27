@@ -14,7 +14,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, currently living in Brazil. I have an intermediate level in English and have experience with Java, JavaServer Pages, MySQL, Database, Python, C, Data Analysis, Data, Docker, HTML and CSS.
+  - 💬 I am 20 years old, currently living in Brazil. I have an intermediate level in English and have experience with Java, JavaServer Pages, MySQL, Database, Python, C, Data Analysis, Data, Docker, HTML and CSS.
 
   - ⚡ I enjoy reading, whether it's a good book or manga, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
