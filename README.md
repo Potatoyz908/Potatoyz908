@@ -5,18 +5,19 @@
   <a href="https://criarmeulink.com.br/u/1718588884"><img src="https://img.shields.io/badge/Contact-+55_(61)991131654-blue" alt="PhoneNumber"></a>
 </p>
 <p align="">
-- 🚀 I’m currently working on AcheiUnB<br/>
-- 🌱 Currently studying Django and SpringBoot<br/>
-- 👯 Open to collaboration on Java or Python projects<br/>
-- 🥅 2024 Goals: Indulge in more open source projects and delve deeper into software development.<br/>
-- 😄 Pronouns: he/him<br/>
-- 💡 Fun fact: I'm also involved in a PIBEX project on Active and Collaborative Learning!<br/>
+- 🚀 I’m currently working on <strong>AcheiUnB</strong>, a lost-and-found platform for the University of Brasília (UnB) <br/>
+- 🌱 Currently studying <strong>Django</strong>, <strong>SpringBoot</strong>, and exploring <strong>Cybersecurity</strong> and <strong>AI</strong> <br/>
+- 👯 Open to collaboration on <strong>Java</strong>, <strong>Python</strong>, <strong>Cybersecurity</strong> or <strong>AI</strong> projects <br/>
+- 🥅 2024 Goals: Contribute to more <strong>open-source projects</strong> and enhance my knowledge in <strong>Cybersecurity</strong> and <strong>AI</strong>. <br/>
+- 😄 Pronouns: he/him <br/>
+- 💡 Fun fact: I'm also working on a <strong>CIS/IEE UnB</strong> project focused on <strong>Machine Learning</strong>, and I’m volunteering in the <strong>Cybersecurity team</strong> at the <strong>Brasil Participativo project</strong> in <strong>Lab Livre</strong>! <br/>
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 20 years old, currently living in Brazil. I have an intermediate level in English and have experience with Java, JavaServer Pages, MySQL, Database, Python, C, Data Analysis, Data, Docker, HTML and CSS.
 
-  - ⚡ I enjoy reading, whether it's a good book or manga, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
+  - 💬 I am 20 years old, currently living in Brazil. I have an intermediate level in English and hands-on experience with **Java**, **JavaServer Pages (JSP)**, **MySQL**, **Python**, **Data Analysis**, **Docker**, **HTML/CSS**, **Vue.js**, **Django**, and **SpringBoot**.
+  
+  - ⚡ When I'm not coding, I enjoy reading (books and manga), watching movies, and playing games. I believe personal interests enrich our problem-solving abilities and creativity.
 </details>
 
 
