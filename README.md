@@ -71,6 +71,7 @@
   <img src="https://github.com/user-attachments/assets/5511fd13-b17c-410f-b6eb-48f8d81cb256" alt="intellJ" height="50" width="50"/>
   <img src="https://github.com/user-attachments/assets/c336c3b5-ce38-46e4-86a8-5c7f5c4249fe" alt="Eclipse" height="50" width="40"/>
   <img src="https://github.com/user-attachments/assets/0a5cb9eb-899b-4fe6-9942-64a064fe6eb4" alt="ubuntu" height="50" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" height="50" width="40" alt="kali"/>
   <img src="https://github.com/user-attachments/assets/dd420853-a1f6-4648-9cb7-e07b1d444664" alt="linux" height="50" width="50"/>
 
 
