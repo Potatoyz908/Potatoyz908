@@ -54,7 +54,8 @@
 
 
   <!-- Ferramentas de Banco de Dados -->
-  <img src="https://static-00.iconduck.com/assets.00/mysqlworkbench-icon-1024x1014-nnvsz83e.png" height="45" width="40" alt="MySQL" />
+  <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="45" width="40" alt="SQLServer" />
+  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" height="45" width="40" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="40" alt="PostgreSQL"/>
   <!-- Ferramentas de Desenvolvimento -->
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
