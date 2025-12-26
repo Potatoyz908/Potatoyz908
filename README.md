@@ -96,7 +96,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potatoyz908&theme=algolia" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potatoyz908&theme=algolia" alt="Profile Details">
 </p>
 
 
