@@ -88,15 +88,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=potatoyz908&show_icons=true&theme=algolia" alt="Euller's GitHub Stats">
+  <img src="http://github-readme-stats.vercel.app/api?username=potatoyz908&show_icons=true&theme=algolia" alt="Euller's GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatoyz908&theme=algolia&layout=compact" alt="Top Languages">
+  <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=potatoyz908&theme=algolia&layout=compact" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potatoyz908&theme=algolia" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potatoyz908&theme=algolia" alt="Profile Details">
 </p>
 
 
