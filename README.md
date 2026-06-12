@@ -15,7 +15,7 @@
   <summary>👨‍💻 More about me</summary>
 
 
-  - 💬 I am 20 years old, currently living in Brazil. I have an intermediate level in English and hands-on experience with **Java**, **JavaServer Pages (JSP)**, **MySQL**, **Python**, **Data Analysis**, **Docker**, **HTML/CSS**, **Vue.js**, **Django**, and **SpringBoot**.
+  - 💬 I am 21 years old, currently living in Brazil. I have an intermediate level in English and hands-on experience with **Java**, **JavaServer Pages (JSP)**, **MySQL**, **Python**, **Data Analysis**, **Docker**, **HTML/CSS**, **Vue.js**, **Django**, and **SpringBoot**.
   
   - ⚡ When I'm not coding, I enjoy reading (books and manga), watching movies, and playing games. I believe personal interests enrich our problem-solving abilities and creativity.
 </details>
